@@ -24,7 +24,7 @@
 
 ## Overview
 
-![screenshot](https://luismino.es/devchallenge/404-page-challenge/404.PNG)
+![screenshot](https://anderpasa.es/devchallenge/404-page-challenge/404.PNG)
 
 In this project, you can see a 404 error page template developed without any framework.
 
@@ -48,6 +48,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [luismino.es](https://luismino.es)
-- GitHub [@luisminopicallo](https://github.com/luisminopicallo)
+- Website [anderpasa.es](https://anderpasa.es)
+- GitHub [@anderpasa](https://github.com/anderpasa)
 - Linkedin [luis-mino](https://www.linkedin.com/in/luis-mino/)
